@@ -23,8 +23,9 @@ Sample Input:
 <img width="1440" alt="Screenshot 2024-04-02 at 11 16 36 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-zohaibhassan02/assets/98820921/55ca348b-31fb-4460-bc54-e78de4bd463d">
 
 
-Adding a task: User enters "Complete ReactJS project" into the input field and clicks the "Add Task" button.
+Adding a task: User enters "Going for a walk" into the input field and clicks the "Add Task" button.
 Deleting a task: User clicks the "Delete" button next to a task.
+<br>
 Sample Output:
 
 <img width="1440" alt="Screenshot 2024-04-02 at 11 16 58 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-zohaibhassan02/assets/98820921/9c959863-778f-4533-8c3a-37ddf111ecd5">
