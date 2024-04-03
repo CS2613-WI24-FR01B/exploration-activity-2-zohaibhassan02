@@ -43,7 +43,7 @@ Props: Passed data between components.
 
 ## 4. When was it created?
 
-ReactJS was created by Jordan Walke, a software engineer at Facebook, and was first deployed on Facebook's newsfeed in 2011.
+ReactJS was created by Jordan Walke, a software engineer at Facebook, and was first deployed on Facebook's newsfeed in 2011. [Link](https://www.linkedin.com/pulse/history-reactjs-story-innovation-community-l-anderson/)
 
 ## 5. How was your overall experience with the package/library?
 
