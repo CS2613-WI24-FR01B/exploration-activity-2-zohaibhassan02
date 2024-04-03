@@ -18,7 +18,7 @@ ReactJS is used by creating components that represent parts of the user interfac
 
 ## 3. Functionalities of ReactJS demonstrated in this project:
 
-# Components: Utilized functional components to manage different parts of the application.
+Components: Utilized functional components to manage different parts of the application.
 
 ```javascript
 function Task({ task, onDeleteTask }) {
@@ -31,12 +31,12 @@ function Task({ task, onDeleteTask }) {
 }
 ```
 
-# useState Hook: Managed the state of tasks within the application.
+useState Hook: Managed the state of tasks within the application.
 ```javascript
 const [tasks, setTasks] = useState([]);
 ```
 
-# Props: Passed data between components.
+Props: Passed data between components.
 ```javascript
 <TaskList tasks={tasks} onDeleteTask={deleteTask} />
 ```
@@ -56,6 +56,7 @@ Reflecting on the development of the Task Tracker, I recognized the power of Rea
 ## 6. References
 
 ReactJS Official Documentation: [ReactJS Docs](https://react.dev/reference/react)
+<br>
 W3Schools ReactJS Tutorial: [W3Schools React](https://www.w3schools.com/react/react_intro.asp)
 
 ## 7. Would I recommend ReactJS?
